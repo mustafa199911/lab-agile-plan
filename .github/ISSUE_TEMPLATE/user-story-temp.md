@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
+name: User story temp
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
-assignees: ''
+assignees: mustafa199911
 
 ---
 
@@ -13,5 +13,3 @@ assignees: ''
    
  ### Details and Assumptions
  * [document what you know]
-   
- ### Acceptance Criteria
